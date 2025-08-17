@@ -147,6 +147,12 @@ See `CLAUDE.md` for detailed development guidance.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## Acknowledgments
+
+- [Obsidian](https://obsidian.md/) for the amazing note-taking platform
+- [ChromaDB](https://www.trychroma.com/) for the vector database
+- [sentence-transformers](https://www.sbert.net/) for semantic embeddings
+
 ## License
 
 MIT License
@@ -170,9 +176,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Acknowledgments
-
-- [Obsidian](https://obsidian.md/) for the amazing note-taking platform
-- [ChromaDB](https://www.trychroma.com/) for the vector database
-- [sentence-transformers](https://www.sbert.net/) for semantic embeddings
